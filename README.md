@@ -15,6 +15,13 @@ Soy estudiante de Ingeniería en Software, apasionado por el desarrollo de aplic
 
 ---
 
+## 💼 Experiencia
+
+- Desde **junio de 2025** me he estado dedicando activamente al desarrollo de software.
+- Actualmente trabajo como **Full Stack Developer freelancer**, desarrollando aplicaciones móviles y APIs con PostgreSQL.
+
+---
+
 ## 💡 Tecnologías y herramientas
 
 ### Lenguajes y frameworks
