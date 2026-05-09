@@ -9,6 +9,7 @@ Soy estudiante de Ingeniería en Software, apasionado por el desarrollo de aplic
 
 - 🎓 Estudiante de Ingeniería en Software.
 - 👨‍💻 Apasionado por el desarrollo backend, mobile y web.
+- 💼 Trabajo como Full Stack Developer freelancer, desarrollando apps móviles y APIs con PostgreSQL.
 - 📚 Siempre explorando nuevas tecnologías y mejores prácticas.
 - 🤝 Abierto a colaboraciones y proyectos interesantes.
 
