@@ -19,11 +19,9 @@ Soy estudiante de Ingeniería en Software, apasionado por el desarrollo de aplic
 
 ### ✨ Full Stack Developer Freelancer
 
-> 🚀 **Actualmente trabajo como freelancer**, desarrollando soluciones reales para clientes:
->
-> - 📱 Aplicaciones móviles
-> - 🔌 APIs backend robustas
-> - 🗄️ Integración y modelado con **PostgreSQL**
+- **Rol actual:** Full Stack Developer Freelancer.
+- **Enfoque técnico:** desarrollo de aplicaciones móviles y servicios backend.
+- **Experiencia en datos:** diseño e integración de bases de datos **PostgreSQL**.
 
 - 🕒 Desde **junio de 2025** me dedico activamente al desarrollo de software.
 
